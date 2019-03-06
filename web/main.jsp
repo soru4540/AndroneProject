@@ -37,9 +37,8 @@ body {
 			<%@ include file="views/common/header.jsp"%>
 
 			<section>
-				section À§Ä¡
 			</section>
-			<%-- <%@ include file="views/common/footer.jsp"%> --%>
+			<%@ include file="views/common/footer.jsp"%>
 		</div>
 	</div>
 </body>
