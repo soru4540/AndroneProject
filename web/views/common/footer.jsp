@@ -39,25 +39,26 @@ footer ul li a {
 	padding-bottom : 5px;
 	width: 120px;
 	height: 35px;
-	color: rgb(03, 83, 132);
+	color: white;
 	font-weight: bold;	
 	text-decoration:none;
 }
 .footer .footer-title {
 	font-size: 24px;
 	font-weight: 600;
-	color:rgb(03, 83, 132);
+	color:white;
 }
 .footer .footer-copyright {
 	font-size: 14px;
 	font-weight: 400;
-	color : rgb(03, 83, 132);
+	color : white;
 }
 #footer {
-	background-color:#60c3a7;
+	background-color:#002e4c;
 	padding-top:5px;
 	padding-bottom: 8px;
-	padding-left: 15px;
+	padding-left: 150px;
+	padding-right: 150px;
 }
 .footer-menu {
 	font-size: 15px;
@@ -66,7 +67,6 @@ footer ul li a {
 </style>
 </head>
 <body>
-<hr>
 <footer id="footer">
 	<div class="footer">
 		<div class="container">
@@ -82,6 +82,5 @@ footer ul li a {
 		</div>
 	</div>
 </footer>
-<hr>
 </body>
 </html>
