@@ -8,14 +8,10 @@
 	content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">
 <title>androne</title>
 <style type="text/css">
-header nav {
-	margin: 5px;
-	height: 70px;
-}
-
 header nav #header {
 	display: flex;
 	list-style: none;
+	padding-left: 150px;
 }
 
 header nav #header li {
@@ -23,7 +19,7 @@ header nav #header li {
 }
 
 #menu{
-width: 50px;
+	width: 50px;
 	height: 50px;
 }
 
@@ -38,7 +34,7 @@ width: 50px;
 #logo {
 	align: center;
 	height: 55px;
-	padding-right: 1330px;
+	padding-right: 1090px;
 }
 
 .info {
@@ -67,7 +63,7 @@ width: 50px;
 	padding: 0px;
 	position: fixed;
 	text-align: center;
-	left: 35px;
+	left: 110px;
 	top: 85px;
 }
 

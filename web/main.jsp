@@ -28,6 +28,16 @@ body {
 	height: 100%;
 	margin: 0px;
 }
+
+#back{
+	background: white;
+	width: 1600px;
+	height:820px;
+	margin-left:150px;
+	margin-bottom:90px;
+	capecity: 0.95;
+}
+
 </style>
 <title>Insert title here</title>
 </head>
@@ -37,6 +47,9 @@ body {
 			<%@ include file="views/common/header.jsp"%>
 
 			<section>
+			<div id="back">
+			
+			</div>
 			</section>
 			<%@ include file="views/common/footer.jsp"%>
 		</div>
