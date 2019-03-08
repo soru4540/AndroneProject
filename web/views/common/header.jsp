@@ -173,7 +173,7 @@ header nav #header li {
 						src="/androne/resources/images/logo.png" id="logo"> </a></li>
 				<li><a href="/androne/main.jsp" class="info">검색<img
 						src="/androne/resources/images/searchbutton.png"></a></li>
-				<li><a href="/androne/main.jsp" class="info">로그인<img
+				<li><a href="/androne/views/member/login.jsp" class="info">로그인<img
 						src="/androne/resources/images/infobutton.png"></a></li>
 			</ul>
 		</nav>
