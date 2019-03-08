@@ -18,6 +18,11 @@ header nav #header li {
 	margin-right: 20px;
 }
 
+#alogo {
+
+	height: 50px;
+}
+
 #menu{
 	width: 50px;
 	height: 50px;
@@ -34,7 +39,7 @@ header nav #header li {
 #logo {
 	align: center;
 	height: 55px;
-	padding-right: 1090px;
+	margin-right: 1120px;
 }
 
 .info {
@@ -159,12 +164,12 @@ header nav #header li {
 								</ul></li>
 							<li class="menuli"><a href="#">커뮤니티</a>
 								<ul id="sub3">
-									<li><a href="3">자유게시판</a></li>
+									<li><a href="/androne/views/fboard/fboardList.jsp">자유게시판</a></li>
 								</ul></li>
 							<li ><a href="#">그룹토론</a></li>
 						</ul>
 					</div></li>
-				<li><a href="/androne/main.jsp"><img
+				<li><a href="/androne/main.jsp" id="alogo"><img
 						src="/androne/resources/images/logo.png" id="logo"> </a></li>
 				<li><a href="/androne/main.jsp" class="info">검색<img
 						src="/androne/resources/images/searchbutton.png"></a></li>
