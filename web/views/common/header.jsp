@@ -152,9 +152,9 @@ header nav #header li {
 						<ul id="menulist">
 							<li class="menuli"><a href="#">about</a>
 								<ul id="sub1">
-									<li><a href="3">about</a></li>
+									<li><a href="/androne/views/board/about/about.jsp">about</a></li>
 									<li><a href="3">공지사항</a></li>
-									<li><a href="3">FAQ</a></li>
+									<li><a href="/androne/views/board/about/FAQ.jsp">FAQ</a></li>
 								</ul></li>
 							<li class="menuli"><a href="#">정보게시판</a>
 								<ul id="sub2">
